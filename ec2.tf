@@ -9,6 +9,6 @@ resource "aws_security_group" "allow_tls" {
     description = "Allow TLS inbount traffic and outbound traffic"
 
     tags = {
-        name + "allow_tls"
+        name = "allow_tls"
     }
 }
