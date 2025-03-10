@@ -1,2 +1,2 @@
 # learn-terraform
-make learning simplified
+learning simplified
